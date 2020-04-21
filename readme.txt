@@ -13,7 +13,7 @@ e. Finally, run the 'iterative-word-suggestion.exe' file to see the product.
 
 This method will work without installing any dependencies in the system.
 
-How to test?
+How to test? 
 
 a. The exe file contains a simple input field. Type in any words here.
 b. With every letter typing with each iteration, it will show the 5 nearest matching words with highest frequency. 
